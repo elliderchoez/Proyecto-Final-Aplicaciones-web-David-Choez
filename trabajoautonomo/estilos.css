@@ -1,0 +1,169 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url(imagenes/imagen.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed; /* Fija la imagen de fondo */
+  }
+  
+  small{
+    display: none;
+    
+  }
+
+  .was-validated small{
+    display: block;
+    color: red;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #fff(0, 0, 0, 10.1);
+    background-color: rgba(255, 255, 255, 0.7); /* Color blanco con opacidad del 50% */
+
+  }
+
+  .imagen1{
+    display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 10%; /* Puedes ajustar el ancho según tus necesidades */
+  }
+  form .form-group{
+    margin-bottom: 15px;
+  }
+
+  form span{
+    display: flex;
+    font-weight: 500;
+    
+  }
+
+  form .button{
+    width: 20%;
+    height: 40px;
+    padding: 10px 325px;
+  
+  }
+
+  form .button input{
+    width: 100%;
+    height: 100%;
+    background: #b7e4c7;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .title1{
+    padding: 10px 80px;
+
+  }
+  
+  .title2{
+    padding: 0px 350px;
+
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 9px 40px;
+    margin: 0 0px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+    background-color: #b7e4c7;
+    color: black;
+  }
+  
+  button:hover {
+    background-color: #ffd8b1;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+
+  .right-links {
+    display: right;
+}
+
+.index{
+  padding: 10px 100px;
+
+}
+.header-buttons {
+  
+  padding: 10px 450px;
+}
+.header-buttons button {
+  
+  margin-left: 10px;
+  padding: 10px 30px;
+}
+.btn {
+  padding: 10px 60px;
+  margin: 10px 20px;
+  background-color: b7e4c7; /* Color de fondo de los botones */
+  color: black; /* Color del texto de los botones */
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.service{
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  
+  .service h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .service p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+  .was-validated small{
+    display: block;
+    color: red;
+  }
+
